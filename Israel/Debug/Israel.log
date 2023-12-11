@@ -1,0 +1,43 @@
+﻿  Israel.cpp
+d:\учеба\c++\lusenko\israel\israel\israel.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\учеба\c++\lusenko\israel\israel\property.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\учеба\c++\lusenko\israel\israel\realestate.h(152): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(163): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(175): warning C4018: >: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(219): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(252): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(338): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\input.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\учеба\c++\lusenko\israel\israel\input.h(44): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(90): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Input<std::string>::checkStrings(const std::string &)"
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "Input<std::string>"
+d:\учеба\c++\lusenko\israel\israel\input.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\учеба\c++\lusenko\israel\israel\input.h(32): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(52): note: выполняется компиляция ссылки на экземпляр шаблон функции "T Input<T>::clearChars(const std::string &)"
+          with
+          [
+              T=std::string
+          ]
+  RealEstate.cpp
+d:\учеба\c++\lusenko\israel\israel\property.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\учеба\c++\lusenko\israel\israel\realestate.h(152): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(163): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(175): warning C4018: >: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(219): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(252): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\realestate.h(338): warning C4018: <: несоответствие типов со знаком и без знака
+d:\учеба\c++\lusenko\israel\israel\input.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\учеба\c++\lusenko\israel\israel\input.h(44): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(90): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Input<std::string>::checkStrings(const std::string &)"
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "Input<std::string>"
+d:\учеба\c++\lusenko\israel\israel\input.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+  d:\учеба\c++\lusenko\israel\israel\input.h(32): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\учеба\c++\lusenko\israel\israel\realestate.h(52): note: выполняется компиляция ссылки на экземпляр шаблон функции "T Input<T>::clearChars(const std::string &)"
+          with
+          [
+              T=std::string
+          ]
+  Создание кода...
+d:\учеба\c++\lusenko\israel\israel\realestate.h(192): warning C4715: RealEstate::deleteProp: значение возвращается не при всех путях выполнения
+d:\учеба\c++\lusenko\israel\israel\realestate.h(328): warning C4715: RealEstate::GetDataUsers: значение возвращается не при всех путях выполнения
+  Israel.vcxproj -> D:\Учеба\c++\Lusenko\Israel\Debug\Israel.exe
